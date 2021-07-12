@@ -248,6 +248,16 @@ nav {
   .div-only-mobile {
     display: none;
   }
+  .abi{
+    position: fixed;
+    left: -8px;
+    bottom: 0;
+  }
+  .el {
+    position: fixed;
+    right: -10px;
+    bottom: -2px;
+  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -279,7 +289,6 @@ nav {
     position: fixed;
     left: -8px;
     bottom: 0;
-    width: 40%;
     width: 40%;
   }
   .el {
