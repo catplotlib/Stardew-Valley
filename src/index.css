@@ -182,7 +182,7 @@ nav {
   }
 
   .steam {
-    margin-left: 11rem;
+    margin-left: 2rem;
     width: 60%;
   }
   .steam:hover {
@@ -352,6 +352,7 @@ nav {
     display: none;
   }
   iframe {
+    justify-content: center;
     width: 230px;
     height: 260px;
   }
@@ -440,7 +441,7 @@ article.nextSlide {
   position: absolute;
   top: 200px;
   transform: translateY(-50%);
-  background: var(--clr-grey-5);
+  background: chocolate;
   color: var(--clr-white);
   width: 1.25rem;
   height: 1.25rem;
