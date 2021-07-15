@@ -1,6 +1,6 @@
 # StardewValley
 I really love Stardew Valley so I decided to make a mini-project honoring my love! :D
-Made completely in React and styled in CSS. 
+A Webapp made completely in React and styled in CSS that utilizes react-rerouting to navigate to different pages. The website is completely responsive and is comprised of different reusable components. Data is taken from the official Stardew Valley wiki page and the NPCs are displayed.
 
 # Demo
 https://stardew-valley.netlify.app
