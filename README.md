@@ -10,9 +10,9 @@ I developed this website while learning the Reactjs framework. Through this proj
 > 
 > useEffect hook,
 > 
-> Lifting up states and,
+> Lifting up states and
 > 
-> netlify deployment,
+> netlify deployment
 
 # Demo
 https://stardew-valley.netlify.app
