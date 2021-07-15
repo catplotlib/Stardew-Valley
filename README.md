@@ -5,9 +5,13 @@ A Webapp made completely in React and styled in CSS that utilizes react-reroutin
 I developed this website while learning the Reactjs framework. Through this project I learned about:
 
 > React-rerouting,
+> 
 > useState hook,
+> 
 > useEffect hook,
+> 
 > Lifting up states and,
+> 
 > netlify deployment,
 
 # Demo
