@@ -134,7 +134,7 @@ nav {
   height: 10rem;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
   iframe {
     width: 420px;
     height: 345px;
@@ -354,7 +354,7 @@ nav {
   iframe {
     justify-content: center;
     width: 230px;
-    height: 260px;
+    height: 200px;
   }
 }
 
