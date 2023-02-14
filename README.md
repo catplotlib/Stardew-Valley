@@ -1,18 +1,12 @@
-# StardewValley
-I really love Stardew Valley so I decided to make a mini-project honoring my love! :D
-A Webapp made completely in React and styled in CSS that utilizes react-rerouting to navigate to different pages. The website is completely responsive and is comprised of different reusable components. Data is taken from the official Stardew Valley wiki page and the NPCs are displayed.
+This mini-project is a web application developed from scratch using React and CSS. It showcases information about the popular RPG game, Stardew Valley.
 
-I developed this website while learning the Reactjs framework. Through this project I learned about:
+The project was built entirely in React, a popular JavaScript library for building user interfaces. React is known for its flexibility and speed, and it allows developers to build reusable UI components. These components can then be used to build more complex applications, such as this one.
 
-> React-rerouting,
-> 
-> useState hook,
-> 
-> useEffect hook,
-> 
-> Lifting up states and
-> 
-> netlify deployment
+The web application is styled in CSS, a stylesheet language used to describe the presentation of web pages. The use of CSS allows for the creation of visually appealing and engaging web pages. The specific styling of this project was likely designed with a focus on creating a cohesive and engaging user experience, as well as ensuring that the application is easy to use and navigate.
+
+The project likely includes a variety of features and components designed to showcase information about Stardew Valley. This could include information about the game's storyline, characters, gameplay mechanics, and more. The information may be presented in various formats, such as text, images, videos, and interactive elements.
+
+Overall, this mini-project serves as a testament to the power and flexibility of modern web development technologies. By utilizing React and CSS, the developer was able to create a visually appealing and informative web application showcasing a popular RPG game.
 
 # Demo
 https://stardew-valley.netlify.app
