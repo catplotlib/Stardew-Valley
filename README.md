@@ -6,7 +6,7 @@ The web application is styled in CSS, a stylesheet language used to describe the
 
 The project likely includes a variety of features and components designed to showcase information about Stardew Valley. This could include information about the game's storyline, characters, gameplay mechanics, and more. The information may be presented in various formats, such as text, images, videos, and interactive elements.
 
-Overall, this mini-project serves as a testament to the power and flexibility of modern web development technologies. By utilizing React and CSS, the developer was able to create a visually appealing and informative web application showcasing a popular RPG game.
+Overall, this mini-project serves as a testament to the power and flexibility of modern web development technologies. By utilizing React and CSS, I was able to create a visually appealing and informative web application showcasing a popular RPG game.
 
 # Demo
 https://stardew-valley.netlify.app
